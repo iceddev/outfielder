@@ -1,6 +1,6 @@
 {
   "name": "outfielder",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Hapi plugin for loading configuration using outfield",
   "author": "Blaine Bublitz <blaine@iceddev.com> (http://iceddev.com)",
   "contributors": [],
